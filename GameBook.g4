@@ -1,3 +1,8 @@
 grammar GameBook;
 
-gameBook :;
+gameBook : 'GameBook' ;
+
+acterHeader :;
+
+acterBody :;
+
